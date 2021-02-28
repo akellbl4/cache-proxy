@@ -1,0 +1,5 @@
+### get albums
+GET http://localhost:3000/albums
+
+### get posts
+GET http://localhost:3000/posts
