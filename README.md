@@ -1,6 +1,6 @@
 # Cache shared data for Next.js
 
-This repo has two approatches to cache data before you start build your Next.app
+This repo has two approatches to cache data before you start build your Next.js app
 
 ### Disk cache server
 
